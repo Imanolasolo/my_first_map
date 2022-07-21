@@ -55,7 +55,7 @@ If you have Git installed and your project is not part of a larger repository, t
 * `Markers.js` File to design `Urgencias` layer markers
 * `MarkersCirugia.js` File to design `Cirugía` layer markers
 * `MarkersConsultaExterna.js` File to design `Consulta Externa` layer markers
-*`MarkersConsultaExternaEspecializada.js` File to design `Consulta Externa Especializada` layer markers
+* `MarkersConsultaExternaEspecializada.js` File to design `Consulta Externa Especializada` layer markers
 * `MarkersHospitalizacion` File to design `Hospitalización` layer markers
 * `MarkersLaboratorio` File to design `Laboratorio` layer markers
 
