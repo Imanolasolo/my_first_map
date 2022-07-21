@@ -3,6 +3,7 @@
 ## My first map
 
 **Background**
+
 This project was created as Capstone Project for Holberton Colombia, but watching the possible market, we decided to make it bigger. We will use it as template to build more developments and capabilities.
 
 **Used Framework**
@@ -39,24 +40,24 @@ You may create subdirectories inside src. For faster rebuilds, only files inside
 
 If you have Git installed and your project is not part of a larger repository, then a new repository will be initialized resulting in an additional top-level .git directory.
 
-*`package.json` In this file we declare al libraries and dependences used in the project.
-*`package-lock.json` backup for json file.
+* `package.json` In this file we declare al libraries and dependences used in the project.
+* `package-lock.json` backup for json file.
 
 **src directory**
 
-*`app.js` This is the main function file, all the dependences and files are inherited to it.
+* `app.js` This is the main function file, all the dependences and files are inherited to it.
 
 **src/components directory**
 
-*`MapView.js` File where we build the map with different layers and interactions
-*`IconLocation.js` File where we design the different logos which we use at project.
-*`LocationMarker.js` File where we design the "you are here" marker and interaction code.
-*`Markers.js` File to design `Urgencias` layer markers
-*`MarkersCirugia.js` File to design `Cirugía` layer markers
-*`MarkersConsultaExterna.js` File to design `Consulta Externa` layer markers
+* `MapView.js` File where we build the map with different layers and interactions
+* `IconLocation.js` File where we design the different logos which we use at project.
+* `LocationMarker.js` File where we design the "you are here" marker and interaction code.
+* `Markers.js` File to design `Urgencias` layer markers
+* `MarkersCirugia.js` File to design `Cirugía` layer markers
+* `MarkersConsultaExterna.js` File to design `Consulta Externa` layer markers
 *`MarkersConsultaExternaEspecializada.js` File to design `Consulta Externa Especializada` layer markers
-*`MarkersHospitalizacion` File to design `Hospitalización` layer markers
-*`MarkersLaboratorio` File to design `Laboratorio` layer markers
+* `MarkersHospitalizacion` File to design `Hospitalización` layer markers
+* `MarkersLaboratorio` File to design `Laboratorio` layer markers
 
 **src/components/assets directory**
 
