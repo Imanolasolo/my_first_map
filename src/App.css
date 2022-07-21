@@ -1,0 +1,29 @@
+.leaflet-container {
+  width: 100vw;
+  height: 80vh;
+}
+
+.button {
+  font-size: 2em;
+    border: 0;
+    padding: 0;
+    background:blue;
+    background-color:blue;
+    cursor: pointer;
+}
+
+h1 {
+  background-color: blue;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  padding: 0;
+}
+
+li {
+  margin: 0 20px;
+  list-style: none;
+  padding: 0;
+}  
